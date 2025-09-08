@@ -4,6 +4,13 @@ Welcome to the **Movie Recommender System** — a personalized, visually immersi
 
 ---
 
+## 🌐 Live Demo
+
+Experience the app in action:  
+👉 [Movie Recommender System — Streamlit App](https://movierecommender1980.streamlit.app/)
+
+---
+
 ## 🚀 Features
 
 - 🔍 Select any movie from a searchable dropdown
